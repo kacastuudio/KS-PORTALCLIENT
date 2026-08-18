@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "KACA STUUDIO",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyDS8t9iKujAQc1PHudo7RpiIVLttA4CwPo",
     whatsappAdmin: "6281284120679" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
